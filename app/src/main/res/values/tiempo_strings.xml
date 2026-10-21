@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tiempo_titulo_ubicacion">El tiempo donde estás</string>
+    <string name="tiempo_motivo_permiso">Usaremos la ubicación de este dispositivo para consultar el tiempo en Open-Meteo. Puedes permitir la ubicación aproximada.</string>
+    <string name="tiempo_usar_ubicacion">Usar mi ubicación</string>
+    <string name="tiempo_abrir_ajustes">Abrir ajustes de la aplicación</string>
+    <string name="tiempo_permiso_ajustes">Activa el permiso de ubicación en los ajustes de la aplicación. Al regresar se volverá a comprobar.</string>
+    <string name="tiempo_obteniendo_ubicacion">Obteniendo tu ubicación…</string>
+    <string name="tiempo_ubicacion_desactivada">Activa la ubicación del dispositivo para consultar el tiempo donde estás.</string>
+    <string name="tiempo_ubicacion_no_disponible">No se pudo obtener una posición reciente. Comprueba la ubicación del dispositivo e inténtalo de nuevo.</string>
+    <string name="tiempo_servicio_ubicacion">El servicio de ubicación no está disponible en este dispositivo.</string>
+    <string name="tiempo_abrir_ubicacion">Abrir ajustes de ubicación</string>
+    <string name="tiempo_coordenadas">Coordenadas consultadas: %1$s, %2$s</string>
+    <string name="tiempo_cargando">Consultando el tiempo…</string>
+    <string name="tiempo_localidad">Tiempo en %1$s</string>
+    <string name="tiempo_actualizar">Actualizar</string>
+    <string name="tiempo_reintentar">Reintentar</string>
+    <string name="tiempo_rango">Del %1$s al %2$s</string>
+    <string name="tiempo_explicacion">Días pasados: datos archivados del modelo. Hoy y próximos días: previsión. Cada icono resume la condición meteorológica más intensa del día.</string>
+    <string name="tiempo_fecha_hoy">%1$s · Hoy</string>
+    <string name="tiempo_fecha_pasada">%1$s · Pasado</string>
+    <string name="tiempo_fecha_futura">%1$s · Previsión</string>
+    <string name="tiempo_atribucion">Datos: Open-Meteo · CC BY 4.0. Códigos adaptados a textos e iconos en español.</string>
+    <string name="tiempo_fuente">Open-Meteo</string>
+    <string name="tiempo_licencia">Licencia CC BY 4.0</string>
+
+    <string name="tiempo_error_red">No se pudo conectar. Comprueba la conexión e inténtalo de nuevo.</string>
+    <string name="tiempo_error_servidor">El servicio no pudo atender la consulta. Inténtalo más tarde.</string>
+    <string name="tiempo_error_limite">Se ha alcanzado el límite de consultas. Espera antes de reintentar.</string>
+    <string name="tiempo_error_datos">La respuesta no contiene una semana válida y completa.</string>
+    <string name="tiempo_error_general">No se pudo cargar el tiempo. Puedes volver a intentarlo.</string>
+
+    <string name="tiempo_soleado">Soleado</string>
+    <string name="tiempo_casi_despejado">Casi despejado</string>
+    <string name="tiempo_parcialmente_nublado">Parcialmente nublado</string>
+    <string name="tiempo_nublado">Nublado</string>
+    <string name="tiempo_niebla">Niebla</string>
+    <string name="tiempo_niebla_escarcha">Niebla con escarcha</string>
+    <string name="tiempo_llovizna_ligera">Llovizna ligera</string>
+    <string name="tiempo_llovizna_moderada">Llovizna moderada</string>
+    <string name="tiempo_llovizna_intensa">Llovizna intensa</string>
+    <string name="tiempo_llovizna_helada_ligera">Llovizna helada ligera</string>
+    <string name="tiempo_llovizna_helada_intensa">Llovizna helada intensa</string>
+    <string name="tiempo_lluvia_ligera">Lluvia ligera</string>
+    <string name="tiempo_lluvia_moderada">Lluvia moderada</string>
+    <string name="tiempo_lluvia_intensa">Lluvia intensa</string>
+    <string name="tiempo_lluvia_helada_ligera">Lluvia helada ligera</string>
+    <string name="tiempo_lluvia_helada_intensa">Lluvia helada intensa</string>
+    <string name="tiempo_nevada_ligera">Nevada ligera</string>
+    <string name="tiempo_nevada_moderada">Nevada moderada</string>
+    <string name="tiempo_nevada_intensa">Nevada intensa</string>
+    <string name="tiempo_granos_nieve">Granos de nieve</string>
+    <string name="tiempo_chubascos_ligeros">Chubascos ligeros</string>
+    <string name="tiempo_chubascos_moderados">Chubascos moderados</string>
+    <string name="tiempo_chubascos_intensos">Chubascos intensos</string>
+    <string name="tiempo_chubascos_nieve_ligeros">Chubascos de nieve ligeros</string>
+    <string name="tiempo_chubascos_nieve_intensos">Chubascos de nieve intensos</string>
+    <string name="tiempo_tormenta">Tormenta</string>
+    <string name="tiempo_tormenta_granizo_ligero">Tormenta con granizo ligero</string>
+    <string name="tiempo_tormenta_intensa">Tormenta intensa</string>
+    <string name="tiempo_tormenta_granizo_intenso">Tormenta con granizo intenso</string>
+    <string name="tiempo_sin_datos">Sin datos</string>
+    <string name="tiempo_desconocido">Tiempo desconocido</string>
+</resources>
+
